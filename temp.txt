@@ -1,0 +1,377 @@
+![Sifars - Top Mobile, Web and Software Development Company](https://www.sifars.com/static/logo-footer-51e4fc80c5e9f6de14b4a2a7c3a5a877.png)
+
+[Home](/en/)
+
+[About](/en/about/)
+
+[Services](/en/services/)
+
+Services
+========
+
+Mobile Development
+
+[Android Apps](/en/services/android-development-company/)
+[iOS Apps](/en/services/iOS-development-company/)
+[React Native](/en/services/reactnative-app-development-company/)
+[Ionic](/en/services/hire-ionic-developer/)
+[Mobility](/en/services/mobile-app-development-company/)
+
+Web Development
+
+[React Js](/en/services/react-js-developer/)
+[Node Js](/en/services/nodejs-development-company/)
+[UI/UX](/en/services/web-design-development-service/)
+[Python](/en/services/python-development-company/)
+[Vue Js](/en/services/vuejs-developers/)
+[Angular](/en/services/angular-development-company/)
+[Laravel](/en/services/laravel-development-company/)
+[Cloud App](/en/services/cloud-development-company/)
+
+Artificial Intelligence
+
+[Generative AI](/en/services/AI-development-company/)
+[AI Consultation](/en/services/AI-development-company/)
+[Model Fine-Tuning](/en/services/AI-development-company/)
+[Conversational Chatbots](/en/services/AI-development-company/)
+[LLM Optimization](/en/services/AI-development-company/)
+
+Automation
+
+[Bot](/en/services/bot-development-company/)
+[Python](/en/services/python-development-company/)
+[Data Services](/en/services/data-services-company/)
+
+Security
+
+[Security Services](/en/services/security-services-company/)
+
+[Portfolio](/en/portfolio/)
+
+[Technology](/en/technology/)
+
+[Blog](/en/blog/)
+
+[Careers](/en/careers/)
+
+[Contact](/en/contact/)
+
+ENDE
+
+[Home](/en/)
+
+[About](/en/about/)
+
+[Services](/en/services/)
+
+[Portfolio](/en/portfolio/)
+
+[Technology](/en/technology/)
+
+[Blog](/en/blog/)
+
+[Careers](/en/careers/)
+
+[Contact](/en/contact/)
+
+We tailor products that serve as fuel to your business.
+=======================================================
+
+Sifars is a worldwide recognized, leading application development company which provides high-end business solutions to all kind of business so as to establish their identity in the tech world.
+
+Get connected
+
+Empowering the Future with AI
+-----------------------------
+
+At Sifars, we believe Artificial Intelligence (AI) holds the key to unlocking a world of possibilities. We are dedicated to pushing the boundaries of AI development and creating intelligent solutions that empower businesses to thrive in the digital age.
+
+Ready to unlock the power of AI for your business? We're here to help. Contact us today for a free consultation and discuss how our AI expertise can transform your operations.[Read more](/en/services/AI-development-company/)
+
+Free AI Consultation
+
+#### Featured Work
+
+Cats
+
+![Catsbill](https://www.sifars.com/static/catsbill-0f3af48fff066c23f5391827466c1aa0.jpg)
+
+### Cats
+
+A Sifars initiative, an elegant and easy to use online portal to generate GST invoicing in India with many advance features like inventory, stock transfer and invoice management.
+
+Get Connect
+
+![Getconnect](https://www.sifars.com/static/get-connect-ea23c51cc680207c0d342e4887b73641.jpg)
+
+### Get Connect
+
+A cloud based ETL software solution specifically designed for banking sector to automate the manual ETL into design enrich automated software program. The program is highly flexible and is integrated with many administrative controls.
+
+Domotron
+
+![Domotron](https://www.sifars.com/static/domotron-a2fb641a6800bc3682f974ce358812e1.jpg)
+
+### Domotron
+
+An interactive design made using picocms and pattern labs for the world's leading AI and IoT based home automation company.
+
+Portfolio
+
+#### Services
+
+Suite of Our
+------------
+
+App Development Services
+------------------------
+
+As an expert in custom software development, web app development, and DevOps, we aim to make our clients become future-ready by turning their innovative ideas into reality.
+
+[![Software Development](https://www.sifars.com/static/software-development-29f0c770de1c3769b1e8bb9cc00dd6db.jpg)\
+\
+Software Development](/en/services/enterprise-software-solutions/)
+
+[![Web design & development](https://www.sifars.com/static/webdevelopment-3a03f123febd860f9183e967c81f0a48.jpg)\
+\
+Web design & development](/en/services/web-development-companies-in-india/)
+
+[![Data Services](https://www.sifars.com/static/data-services-9fbf936998d517bd90af7a4a9b734099.jpg)\
+\
+Data Services](/en/services/data-services-company/)
+
+[![Artificial Intelligence](https://www.sifars.com/static/artificailintellegence-17dde19610c6f1a49a08e10039dd4366.jpg)\
+\
+Artificial Intelligence](/en/services/AI-development-company/)
+
+[![Mobile app development](https://www.sifars.com/static/mobile-app-f208369368154ee7c9325ee0c41da9f1.jpg)\
+\
+Mobile app development](/en/services/mobile-app-development-company/)
+
+[![Security Services](https://www.sifars.com/static/security-0a4aebc91a1eaee9c329d68126a24716.jpg)\
+\
+Security Services](/en/services/security-services-company/)
+
+[![Bot development](https://www.sifars.com/static/bot-development-0eeebc6a8f3473906ca4ffbcdc5c4828.jpg)\
+\
+Bot development](/en/services/data-services-company/)
+
+[![Devops](https://www.sifars.com/static/cloud-computing-88410403ecbb7894d3710ef36f6dae60.jpg)\
+\
+Devops](/en/services/cloud-development-company/)
+
+[![UI/UX](https://www.sifars.com/static/ui-ux-daac4524a13e759c9a3e1f38fad0aa9b.jpg)\
+\
+UI/UX](/en/services/web-design-development-service/)
+
+Come Up With Business Idea and Leave the Rest On Sifars
+-------------------------------------------------------
+
+Get in touch with us and convert your business idea into a reality.
+
+Contact us
+
+Every project have a different story, and we have a story book for successful projects
+
+Have a look on Success stories & Projects
+-----------------------------------------
+
+[Go to portfolio](/en/portfolio/)
+
+#### Partners
+
+[![Catsbill](https://www.sifars.com/static/cats-fe68f965f645fb0d334e14d46922b5c8.png)](https://www.catsbill.com/)
+
+![The Web guys](https://www.sifars.com/static/webguys2-3ae287ccfaf42450e9c5102f9801f7e0.png)
+
+![GLB](data:image/png;base64,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)
+
+![SEL](https://www.sifars.com/static/sel-8319e45b2b773e240130019855fb8f53.png)
+
+![Qcentic](https://www.sifars.com/static/qcentic-03cf146523921d0b106a2767c071a360.png)
+
+![Domotron](data:image/png;base64,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)
+
+![testimonial_svg](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNTVweCIgaGVpZ2h0PSIzNnB4IiB2aWV3Qm94PSIwIDAgNTUgMzYiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogc2tldGNodG9vbCA1Mi40ICg2NzM3OCkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+RjZGMkQyQzUtMDAzNS00REQxLUIwMTktRERDQjM3RURGMDU0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBza2V0Y2h0b29sLjwvZGVzYz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJ3ZWItZGV2ZWxvcG1lbnQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02OTIuMDAwMDAwLCAtNDIxOC4wMDAwMDApIiBmaWxsPSIjMjc3OEZGIj4KICAgICAgICAgICAgPGcgaWQ9Ikdyb3VwLTQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIyMi4wMDAwMDAsIDQyMTguMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNDcwLDAgTDQ5My4wMDAwODEsMCBMNDkzLjAwMDA4MSwyMy45NTg0MDU0IEw0ODEuMDAwMDA5LDIzLjk1ODQwNTQgQzQ4MS4wMDAwMDksMzEuOTg2MTM1MSA0ODEuMDAwMDA5LDM2IDQ4MS4wMDAwMDksMzYgQzQ3My44NzM5OTgsMzYgNDcwLjIwNzMzMiwzMi4zMzMzMzMzIDQ3MC4wMDAwMDksMjUgTDQ3MCwwIFogTTUwMiwwIEw1MjUuMDAwMDgxLDAgTDUyNS4wMDAwODEsMjMuOTU4NDA1NCBMNTEzLjAwMDAwOSwyMy45NTg0MDU0IEM1MTMuMDAwMDA5LDMxLjk4NjEzNTEgNTEzLjAwMDAwOSwzNiA1MTMuMDAwMDA5LDM2IEM1MDUuODczOTk4LDM2IDUwMi4yMDczMzIsMzIuMzMzMzMzMyA1MDIuMDAwMDA5LDI1IEw1MDIsMCBaIiBpZD0iQ29tYmluZWQtU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+)
+
+Great Work Speaks for Itself
+----------------------------
+
+The Sifars Team is an arsenal of talented developers that I admire and trust. They’re a dream team, so fun to work with, and at the same time completely professional.
+
+Gabriela Bazan
+
+Founder of GLB Design & Development
+
+Sifars is an extended team to us. The level of their expertise, consultancy and professionalism are commendable. Really responsive and good listeners, deliver exactly what one expects of surely with a level of expertise.
+
+Siamak Mehraghdam
+
+Co-Founder of Qcentic
+
+The level of support during the whole development cycle was remarkable. I must say the team is highly professional, competent and responsive.
+
+Santiago Sanches
+
+Development Manager at Savage Global Marketing
+
+They are very competent and reasonable with their pricing. The platform functions well without any bugs. Sifars is a highly deadline-oriented, communicative group.
+
+Barrister Naveed Khan
+
+CEO of Askwakeel
+
+### Time to Craft Brilliance Together
+
+Collaborate with Sifars to turn your ideas into the brilliant digital applications for your business.
+
+Time to add wings to your dreams and make them fly high!
+
+Fill up the simple Form Below
+
+Let's Connect
+-------------
+
+Thanks for reaching us!
+-----------------------
+
+Shaping your ideas and Adding value to your concepts, We aspire to sustain cordial relations by providing utmost satisfaction !!! Get in touch to partner with us. 
+
+Hi, I am
+
+Name is required
+
+Reach me via Email
+
+Email is required
+
+Select your Budget rangeSelect a range$2,500 - $5,000$5,001 - $10,000$10,001 - $20,000$20,001 - $50,000$50,001 - $100,000More than $100,000
+
+Budget range is required
+
+Or you can call me at
+
+Phone is required
+
+I want to talk aboutSelect an OptionEnterprise Software DevelopmentMobile DevelopmentWeb DevelopmentAutomationSecurityFrontend DevelopmentBackend DevelopmentOther 
+
+Talk goal is required
+
+Attachment
+
+Choose a file
+
+Project Synopsis
+
+Synopsis is required
+
+Submit
+
+[![Sifars - Top Mobile, Web and Software Development Company](https://www.sifars.com/static/logo-footer-51e4fc80c5e9f6de14b4a2a7c3a5a877.png)](/en/)
+
+General Inquiries
+
+[info@sifars.com](mailto:info@sifars.com)
+
+For Sales
+
+[sales@sifars.com](mailto:sales@sifars.com)
+
+Company
+
+[About](/en/about/)
+[Our Services](/en/services/)
+[Technology](/en/technology/)
+[Blog](/en/blogs/)
+[Contact](/en/contact/)
+[Careers](/en/careers/)
+
+Mobile App Development
+
+[Android Apps](/en/services/android-development-company/)
+[iOS Apps](/en/services/iOS-development-company/)
+[React Native](/en/services/reactnative-app-development-company/)
+[Ionic](/en/services/hire-ionic-developer/)
+[Mobility](/en/services/mobile-app-development-company/)
+
+Web Development
+
+[React Js](/en/services/react-js-developer/)
+[Node Js](/en/services/nodejs-development-company/)
+[UI/UX](/en/services/web-design-development-service/)
+[Python](/en/services/python-development-company/)
+[Vue Js](/en/services/vuejs-developers/)
+[Angular](/en/services/angular-development-company/)
+[Laravel](/en/services/laravel-development-company/)
+[Cloud App](/en/services/cloud-development-company/)
+
+Artificial Intelligence
+
+[Generative AI](/en/services/AI-development-company/)
+[AI Consultation](/en/services/AI-development-company/)
+[Model Fine-Tuning](/en/services/AI-development-company/)
+[Conversational Chatbots](/en/services/AI-development-company/)
+[LLM Optimization](/en/services/AI-development-company/)
+
+Automation
+
+[Bot](/en/services/bot-development-company/)
+[Python](/en/services/python-development-company/)
+[Data Services](/en/services/data-services-company/)
+
+Security
+
+[Security Services](/en/services/security-services-company/)
+
+Company
+
+[About](/en/about/)
+[Our Services](/en/services/)
+[Technology](/en/technology/)
+[Blog](/en/blogs/)
+[Contact](/en/contact/)
+[Careers](/en/careers/)
+
+Mobile App Development
+
+[Android Apps](/en/services/android-development-company/)
+[iOS Apps](/en/services/iOS-development-company/)
+[React Native](/en/services/reactnative-app-development-company/)
+[Ionic](/en/services/hire-ionic-developer/)
+[Mobility](/en/services/mobile-app-development-company/)
+
+Web Development
+
+[React Js](/en/services/react-js-developer/)
+[Node Js](/en/services/nodejs-development-company/)
+[UI/UX](/en/services/web-design-development-service/)
+[Python](/en/services/python-development-company/)
+[Vue Js](/en/services/vuejs-developers/)
+[Angular](/en/services/angular-development-company/)
+[Laravel](/en/services/laravel-development-company/)
+[Cloud App](/en/services/cloud-development-company/)
+
+Artificial Intelligence
+
+[Generative AI](/en/services/AI-development-company/)
+[AI Consultation](/en/services/AI-development-company/)
+[Model Fine-Tuning](/en/services/AI-development-company/)
+[Conversational Chatbots](/en/services/AI-development-company/)
+[LLM Optimization](/en/services/AI-development-company/)
+
+Automation
+
+[Bot](/en/services/bot-development-company/)
+[Python](/en/services/python-development-company/)
+[Data Services](/en/services/data-services-company/)
+
+Security
+
+[Security Services](/en/services/security-services-company/)
+
+[](https://www.instagram.com/sifars.us/)
+[](https://in.linkedin.com/company/sifars)
+[](https://twitter.com/sifars_com)
+[](https://www.facebook.com/sifars.tech/)
+
+© Copyright 2024 Sifars – Mobile & Web App Development Company. All Rights Reserved [Privacy Policy](/en/privacy-policy/)

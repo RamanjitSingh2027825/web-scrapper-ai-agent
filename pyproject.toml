@@ -6,7 +6,13 @@ authors = ["Ramanjit Singh <ramanjit.singh@sifars.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12,<3.13"
+firecrawl-py = "^0.0.16"
+langchain-community = "^0.2.5"
+python-dotenv = "^1.0.1"
+langchain-openai = "^0.1.9"
+pinecone-client = "3.2.2"
+langchain-pinecone = "0.1.1"
 
 
 [build-system]
